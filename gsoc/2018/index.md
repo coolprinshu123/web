@@ -40,7 +40,9 @@ Mentors: Nicolas Gonzalez Flores and Luis V. Calderita
 **Prinshu Kumar**
 
 Idea: Learnblock (Learnbot programming language) extension for collaborative robotics  
-Mentors: Marco A Gutiérrez and Iván Barbecho Delgado  
+Mentors: Marco A Gutiérrez and Iván Barbecho Delgado 
+
+1. [Learnblock extension for collaborative robotics](https://github.com/robocomp/web/blob/master/gsoc/2018/prinshu_kumar/post1.md)
 
 **Sparsh Garg**
 
